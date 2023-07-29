@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Starbuks</string>
+    <string name="our_way_of_loving_you_back">"Our way of loving you back. "</string>
+    <string name="search">Search</string>
+    <string name="popular">Popular</string>
+    <string name="see_all">See All</string>
+    <string name="chocolate_cappuccino">Chocolate Cappuccino</string>
+    <string name="coffee">Coffee</string>
+    <string name="lorem_sentence">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+</resources>
